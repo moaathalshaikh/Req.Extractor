@@ -16,10 +16,7 @@ PROCC
 UFS, Brazil
 
 ### Project Title:
-Exploring Interests in Software Engineering and Information Systems
-
-### Prompt:
-An Experimental Study with LLMs
+Exploring Interests in Software Engineering and Information Systems Prompt: An Experimental Study with LLMs
 
 ### Work Team:
 - MOAATH ALSHAIKH, UFBA
