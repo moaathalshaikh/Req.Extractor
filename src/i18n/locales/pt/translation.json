@@ -1,0 +1,24 @@
+
+{
+  "uploadFile": "Carregar arquivo .txt",
+  "clear": "Limpar",
+  "pasteText": "Cole seu texto aqui...",
+  "extractRequirements": "Extrair Requisitos",
+  "downloadRequirementsTxt": "Baixar Requisitos (.txt)",
+  "downloadRequirementsCsv": "Baixar Requisitos (.csv)",
+  "extractedRequirements": "Requisitos Extraídos",
+  "functionalRequirements": "Requisitos Funcionais",
+  "nonFunctionalRequirements": "Requisitos Não Funcionais",
+  "noFunctionalRequirements": "Nenhum requisito funcional extraído.",
+  "noNonFunctionalRequirements": "Nenhum requisito não funcional extraído.",
+  "noRequirementsExtracted": "Nenhum requisito extraído ainda.",
+  "aboutUs": "Sobre Nós",
+  "tutorialGuide": "Guia de Tutorial",
+  "selectLanguage": "Selecione o Idioma",
+  "requirementsExtracted": "Requisitos Extraídos",
+  "successfullyExtracted": "Requisitos extraídos com sucesso do texto.",
+  "extractionFailed": "Falha na Extração",
+  "failedToExtract": "Falha ao extrair os requisitos.",
+  "noRequirementsToDownload": "Nenhum Requisito para Baixar",
+  "pleaseExtractFirst": "Por favor, extraia os requisitos primeiro."
+}

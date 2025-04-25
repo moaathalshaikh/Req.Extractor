@@ -1,0 +1,24 @@
+
+{
+  "uploadFile": "تحميل ملف .txt",
+  "clear": "مسح",
+  "pasteText": "ألصق النص هنا...",
+  "extractRequirements": "استخراج المتطلبات",
+  "downloadRequirementsTxt": "تنزيل المتطلبات (.txt)",
+  "downloadRequirementsCsv": "تنزيل المتطلبات (.csv)",
+  "extractedRequirements": "المتطلبات المستخرجة",
+  "functionalRequirements": "المتطلبات الوظيفية",
+  "nonFunctionalRequirements": "المتطلبات غير الوظيفية",
+  "noFunctionalRequirements": "لم يتم استخراج أي متطلبات وظيفية.",
+  "noNonFunctionalRequirements": "لم يتم استخراج أي متطلبات غير وظيفية.",
+  "noRequirementsExtracted": "لم يتم استخراج أي متطلبات حتى الآن.",
+  "aboutUs": "معلومات عنا",
+  "tutorialGuide": "دليل البرنامج التعليمي",
+  "selectLanguage": "اختر اللغة",
+  "requirementsExtracted": "تم استخراج المتطلبات",
+  "successfullyExtracted": "تم استخراج المتطلبات بنجاح من النص.",
+  "extractionFailed": "فشل الاستخراج",
+  "failedToExtract": "فشل في استخراج المتطلبات.",
+  "noRequirementsToDownload": "لا توجد متطلبات للتنزيل",
+  "pleaseExtractFirst": "يرجى استخراج المتطلبات أولاً."
+}

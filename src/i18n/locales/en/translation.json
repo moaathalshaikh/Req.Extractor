@@ -1,0 +1,24 @@
+
+{
+  "uploadFile": "Upload .txt File",
+  "clear": "Clear",
+  "pasteText": "Paste your text here...",
+  "extractRequirements": "Extract Requirements",
+  "downloadRequirementsTxt": "Download Requirements (.txt)",
+  "downloadRequirementsCsv": "Download Requirements (.csv)",
+  "extractedRequirements": "Extracted Requirements",
+  "functionalRequirements": "Functional Requirements",
+  "nonFunctionalRequirements": "Non-Functional Requirements",
+  "noFunctionalRequirements": "No functional requirements extracted.",
+  "noNonFunctionalRequirements": "No non-functional requirements extracted.",
+  "noRequirementsExtracted": "No requirements extracted yet.",
+  "aboutUs": "About Us",
+  "tutorialGuide": "Tutorial Guide",
+  "selectLanguage": "Select Language",
+  "requirementsExtracted": "Requirements Extracted",
+  "successfullyExtracted": "Successfully extracted requirements from the text.",
+  "extractionFailed": "Extraction Failed",
+  "failedToExtract": "Failed to extract requirements.",
+  "noRequirementsToDownload": "No Requirements to Download",
+  "pleaseExtractFirst": "Please extract requirements first."
+}
